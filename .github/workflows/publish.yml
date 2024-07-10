@@ -5,14 +5,7 @@ on:
     types: [published]
 
 jobs:
-  publishing:
-    runs-on: ubuntu-latest
-    steps:
-      - name: "Checkout"
-        uses: actions/checkout@main # required!
-
-      - name: ">> Dart package <<"
-        uses: k-paxian/dart-package-publisher@master
-        with:
-          accessToken: ${{ secrets.OAUTH_ACCESS_TOKEN }}
-          refreshToken: ${{ secrets.OAUTH_REFRESH_TOKEN }}
+  publish:
+    permissions:
+      id-token: write # Required for authentication using OIDC
+    uses: dart-lang/setup-dart/.github/workflows/publish.yml@v1
