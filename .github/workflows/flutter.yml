@@ -22,4 +22,4 @@ jobs:
       - name: Run tests
         run: flutter test
       - name: Check Publish Warnings
-        run: pub publish --dry-run
+        run: flutter pub publish --dry-run

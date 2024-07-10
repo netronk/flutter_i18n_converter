@@ -1,11 +1,11 @@
 # Flutter I18n Converter
 
 [![pub package](https://img.shields.io/pub/v/flutter_i18n_converter.svg)](https://pub.dev/packages/flutter_i18n_converter)
-[![CI](https://img.shields.io/github/actions/workflow/status/netronk/flutter_i18n_converter/dart.yml?branch=main&logo=github-actions&logoColor=white)](https://github.com/netronk/flutter_i18n_converter/actions)
+[![Flutter Analysis](https://github.com/netronk/flutter_i18n_converter/actions/workflows/flutter.yml/badge.svg)](https://github.com/netronk/flutter_i18n_converter/actions/workflows/flutter.yml)
 [![Last Commits](https://img.shields.io/github/last-commit/netronk/flutter_i18n_converter?logo=git&logoColor=white)](https://github.com/netronk/flutter_i18n_converter/commits/main)
 [![Pull Requests](https://img.shields.io/github/issues-pr/netronk/flutter_i18n_converter?logo=github&logoColor=white)](https://github.com/netronk/flutter_i18n_converter/pulls)
 [![Code size](https://img.shields.io/github/languages/code-size/netronk/flutter_i18n_converter?logo=github&logoColor=white)](https://github.com/netronk/flutter_i18n_converter)
-[![License](https://img.shields.io/github/license/netronk/flutter_i18n_converter?logo=open-source-initiative&logoColor=green)](https://github.com/netronk/flutter_i18n_converter/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/netronk/flutter_i18n_converter?style=flat&logo=open-source-initiative&logoColor=green)](https://github.com/netronk/flutter_i18n_converter/blob/main/LICENSE)
 
 Flutter I18n Converter is a simple and lightweight library to convert language short codes (like `en` or `en-US`) to their respective long names (like `English` or `English (United States)`).
 
