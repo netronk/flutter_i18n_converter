@@ -1,7 +1,7 @@
 # Flutter I18n Converter
 
 [![pub package](https://img.shields.io/pub/v/flutter_i18n_converter.svg)](https://pub.dev/packages/flutter_i18n_converter)
-[![Flutter Analysis](https://github.com/netronk/flutter_i18n_converter/actions/workflows/flutter.yml/badge.svg)](https://github.com/netronk/flutter_i18n_converter/actions/workflows/flutter.yml)
+[![Flutter Analysis](https://github.com/netronk/flutter_i18n_converter/actions/workflows/flutter.yml/badge.svg?branch=main)](https://github.com/netronk/flutter_i18n_converter/actions/workflows/flutter.yml)
 [![Last Commits](https://img.shields.io/github/last-commit/netronk/flutter_i18n_converter?logo=git&logoColor=white)](https://github.com/netronk/flutter_i18n_converter/commits/main)
 [![Pull Requests](https://img.shields.io/github/issues-pr/netronk/flutter_i18n_converter?logo=github&logoColor=white)](https://github.com/netronk/flutter_i18n_converter/pulls)
 [![Code size](https://img.shields.io/github/languages/code-size/netronk/flutter_i18n_converter?logo=github&logoColor=white)](https://github.com/netronk/flutter_i18n_converter)
