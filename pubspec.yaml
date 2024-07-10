@@ -1,6 +1,6 @@
 name: flutter_i18n_converter
 description: "Simplify Localization with Effortless Language Code Conversion"
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/netronk/flutter_i18n_converter
 
 environment:

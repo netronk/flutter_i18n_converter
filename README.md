@@ -22,7 +22,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_i18n_converter: ^1.0.0
+  flutter_i18n_converter: ^0.0.3
 ```
 
 then run:

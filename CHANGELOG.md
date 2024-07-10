@@ -6,3 +6,7 @@
 
 - Fix dart typo
 - Added Example
+
+## 0.0.3
+
+- Fix Readme Version
