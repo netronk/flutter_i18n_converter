@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_i18n_converter/i18n_converter.dart';
+import 'package:flutter_i18n_converter/flutter_i18n_converter.dart';
 
 void main() {
   group('I18nConverter', () {

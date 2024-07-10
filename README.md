@@ -42,7 +42,7 @@ flutter pub add flutter_i18n_converter
 ### Basic Usage
 
 ```dart
-import 'package:flutter_i18n_converter/i18n_converter.dart';
+import 'package:flutter_i18n_converter/flutter_i18n_converter.dart';
 
 void main() {
   // Get the language name in the default language (autonym)
@@ -64,7 +64,7 @@ void main() {
 By default, I18nConverter returns the language name in its own language (autonym). You can change this to always return the language name in English:
 
 ```dart
-import 'package:flutter_i18n_converter/i18n_converter.dart';
+import 'package:flutter_i18n_converter/flutter_i18n_converter.dart';
 
 void main() {
   I18nConverter.setUseAutonyms(false);
